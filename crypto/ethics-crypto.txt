@@ -1,0 +1,16 @@
+This is a short ethics question based on the ethics
+lecture that goes with the crypto assignment.
+Please type your answer below, and submit this file as
+part of your assignment.
+
+Suppose Alice and Bob are US citizens and Alice sends an SMS message to Bob through Verizon.
+
+1. If the police obtain a warrant and make a request to Verizon, can Verizon provide them with a copy of the message - yes or no? - one word answer:
+
+2. Suppose instead Alice sends a message to Bob using an end-to-end encrypted messaging, and the bytes of the message flow through Verizon. Does Verizon have a copy of the plaintext of the message to provide to the police? Explain briefly.
+
+Your answer:
+
+1. Yes
+2. No Verizon does not. Because the message is end to end encrypted, the message does not get decrypted and re-encrypted when it arrives to Verizon.
+Rather, Verizon passes the encrypted message along to the end user who is the only one who can decrypt the message.
